@@ -10,12 +10,12 @@ This repository contains the implementation of some famous algorithms:
 ---
 ## Table of Contents
 
-- ## [Heap-Sort Algorithm](#heap-sort-algorithm)
+- [Heap-Sort Algorithm](#heap-sort-algorithm)
   - [Algorithm Description](#algorithm-description)
   - [Steps Involved in Heap-Sort](#steps-involved-in-heap-sort)
   - [Time Complexity Analysis](#time-complexity-analysis)
   - [Example](#example)
-- ## [Kruskal's Algorithm](#kruskals-algorithm)
+- [Kruskal's Algorithm](#kruskals-algorithm)
   - [Algorithm Description](#algorithm-description-1)
   - [Steps Involved in Kruskal Algorithm](#steps-involved-in-kruskal-algorithm)
   - [Time Complexity Analysis](#time-complexity-analysis-1)
