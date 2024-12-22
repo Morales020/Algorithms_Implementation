@@ -17,7 +17,7 @@ This repository contains the implementation of some famous algorithms:
   - [Example](#example)
 - ## [Kruskal's Algorithm](#kruskals-algorithm)
   - [Algorithm Description](#algorithm-description-1)
-  - [Steps Involved in Kruskal's Algorithm](steps-involved-in-kruskal's-algorithm)
+  - [Steps Involved in Kruskal's Algorithm](steps-involved-in-kruskal's-algorithm-1)
   - [Time Complexity Analysis](#time-complexity-analysis-1)
   - [Example](#example-1)
 
