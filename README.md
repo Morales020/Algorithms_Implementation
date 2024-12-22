@@ -17,7 +17,7 @@ This repository contains the implementation of some famous algorithms:
   - [Example](#example)
 - ## [Kruskal's Algorithm](#kruskals-algorithm)
   - [Algorithm Description](#algorithm-description-1)
-  - [Steps Involved in Kruskal's Algorithm](steps-involved-in-kruskal's-algorithm-1)
+  - [Steps Involved in Kruskal Algorithm](steps-involved-in-kruskal-algorithm-1)
   - [Time Complexity Analysis](#time-complexity-analysis-1)
   - [Example](#example-1)
 
@@ -121,7 +121,7 @@ Kruskal’s algorithm finds the Minimum Spanning Tree (MST) of a graph by:
 
 ---
 
-### Steps Involved in Kruskal's Algorithm
+### Steps Involved in Kruskal Algorithm
 1. ### `Sort All Edges:`
    - Sort all edges of the graph in non-decreasing order of their weights.
 
