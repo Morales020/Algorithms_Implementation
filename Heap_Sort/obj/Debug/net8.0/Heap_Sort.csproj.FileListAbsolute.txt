@@ -1,0 +1,15 @@
+D:\College Projects\Algorithms_Implementation\Heap_Sort\bin\Debug\net8.0\Heap_Sort.exe
+D:\College Projects\Algorithms_Implementation\Heap_Sort\bin\Debug\net8.0\Heap_Sort.deps.json
+D:\College Projects\Algorithms_Implementation\Heap_Sort\bin\Debug\net8.0\Heap_Sort.runtimeconfig.json
+D:\College Projects\Algorithms_Implementation\Heap_Sort\bin\Debug\net8.0\Heap_Sort.dll
+D:\College Projects\Algorithms_Implementation\Heap_Sort\bin\Debug\net8.0\Heap_Sort.pdb
+D:\College Projects\Algorithms_Implementation\Heap_Sort\obj\Debug\net8.0\Heap_Sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\College Projects\Algorithms_Implementation\Heap_Sort\obj\Debug\net8.0\Heap_Sort.AssemblyInfoInputs.cache
+D:\College Projects\Algorithms_Implementation\Heap_Sort\obj\Debug\net8.0\Heap_Sort.AssemblyInfo.cs
+D:\College Projects\Algorithms_Implementation\Heap_Sort\obj\Debug\net8.0\Heap_Sort.csproj.CoreCompileInputs.cache
+D:\College Projects\Algorithms_Implementation\Heap_Sort\obj\Debug\net8.0\Heap_Sort.sourcelink.json
+D:\College Projects\Algorithms_Implementation\Heap_Sort\obj\Debug\net8.0\Heap_Sort.dll
+D:\College Projects\Algorithms_Implementation\Heap_Sort\obj\Debug\net8.0\refint\Heap_Sort.dll
+D:\College Projects\Algorithms_Implementation\Heap_Sort\obj\Debug\net8.0\Heap_Sort.pdb
+D:\College Projects\Algorithms_Implementation\Heap_Sort\obj\Debug\net8.0\Heap_Sort.genruntimeconfig.cache
+D:\College Projects\Algorithms_Implementation\Heap_Sort\obj\Debug\net8.0\ref\Heap_Sort.dll
